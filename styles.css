@@ -1,0 +1,16 @@
+.circle {
+  background: rgba(238, 47, 47, 0.835);
+  border-radius: 20px;
+}
+#addimg {
+  background: url(p.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 400px;
+}
+.market {
+  font-size: 25px;
+}
+a.nav-link:hover {
+  border-bottom: 1px solid brown;
+}
